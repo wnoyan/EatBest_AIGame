@@ -1,2 +1,2 @@
 # EatBest_AIGame
-This Game is created for "CSE4110: Artificial Intelligence Laboratory" using Python based on 0/1 Knapsack Problem.
+This is a menu driven AI game that is developed in python using 0/1 Knapsack algorithm.
